@@ -52,7 +52,7 @@ object-verification-yolo/
 ### Clone Repository
 
 ```
-git clone https://github.com/<your-username>/object-verification-yolo.git
+git clone https://github.com/BalaSaravanan672/object-verification-yolo.git
 cd object-verification-yolo
 ```
 ## Install Dependencies
