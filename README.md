@@ -1,4 +1,5 @@
-<img width="1680" height="1050" alt="Screenshot 2026-02-18 at 11 06 20 PM" src="https://github.com/user-attachments/assets/1e9cebee-7d39-42c8-98fb-1b7c949760e2" /># Real-Time Bottle Verification System (YOLOv8 + MobileNetV2)
+<img width="1680" height="1050" alt="Screenshot 2026-02-18 at 11 21 22 PM" src="https://github.com/user-attachments/assets/5dc2d408-5d7f-4233-9d12-f3fbe038a0e7" />
+# Real-Time Bottle Verification System (YOLOv8 + MobileNetV2)
 
 A real-time computer vision application that detects a bottle using YOLOv8 and verifies whether it matches a predefined golden reference bottle using MobileNetV2 feature embeddings and cosine similarity. This project demonstrates object detection, transfer learning, embedding comparison, and real-time webcam processing in a single pipeline.
 
