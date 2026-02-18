@@ -37,17 +37,15 @@ A real-time computer vision application that detects a bottle using YOLOv8 and v
 - Ultralytics YOLOv8
 - NumPy
 
----
-
 ## Project Structure
 
+```
 object-verification-yolo/
 ├─ main.py
 ├─ golden.jpg
 ├─ requirements.txt
 └─ README.md
-
----
+```
 
 ## Installation
 
