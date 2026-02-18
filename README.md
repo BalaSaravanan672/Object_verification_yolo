@@ -51,25 +51,28 @@ object-verification-yolo/
 
 ### Clone Repository
 
+```
 git clone https://github.com/<your-username>/object-verification-yolo.git
 cd object-verification-yolo
-
+```
 ## Install Dependencies
 
+```
 pip install -r requirements.txt
+```
 
 ## Run the Application
-
+```
 python main.py
-
+```
 Press Q to exit the application window.
 
 ## Golden Image
 
 Place the reference bottle image in the project root directory as:
-
+```
 golden.jpg
-
+```
 ## Recommendations:
 	•	Use consistent lighting
 	•	Ensure the label is clearly visible
